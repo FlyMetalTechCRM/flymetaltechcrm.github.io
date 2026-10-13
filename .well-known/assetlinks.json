@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.flymetaltechcrm.twa",
+        "sha256_cert_fingerprints": ["DE:08:2F:0A:1D:9D:11:3B:B7:D1:5B:13:F1:97:0E:87:8B:4B:A0:83:FA:4E:F5:1A:88:2C:0B:38:7A:18:49:2D"]
+      }
+    }]
